@@ -30,9 +30,9 @@ public class MainActivity extends AppCompatActivity {
     tv_filestring = findViewById(R.id.tv_filestring);
     iv_pokemon = findViewById(R.id.iv_pokemon);
 
-    readimg2ImageView();
+//    readimg2ImageView();
 
-    readtxt2TextView();
+//    readtxt2TextView();
 //
 //    writetxt();
 
