@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btn_addmeal
+id btn_delmeal
+id btn_meal
+id et_meal_description
+id et_meal_name
+id et_meal_price
+id lv_alllmeals
+id lv_main_meals
+id tv_mealdescription
+id tv_mealname
+id tv_mealprice
+layout activity_main
+layout activity_meal_management
+layout meal_list_item
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.SQLite
+style Theme.SQLite
+xml backup_rules
+xml data_extraction_rules
